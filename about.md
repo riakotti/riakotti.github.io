@@ -1,30 +1,14 @@
 ---
+title: About 
 layout: page
-title: About
 ---
+My name is Eleftheria (Ria) Kotti. I have more than 6.5 years of experience in applying statistical methods and machine learning techniques.  
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+For the most of the last two years as a Principal Statistician, I am providing high-quality statistical support to CMC team in GSK, where I successfully support scientists at different groups, aiming to improve decision-making.  So far I have received five awards for my high-quality, innovative and valuable contribution to team’s and company's success! 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Before that, I completed the requirements for a PhD in Statistical Science and Machine Learning at UCL. I was a member of ﻿the Centre for Computational Statistics and Machine Learning (CSML). I performed variable selection via penalization, Machine Learning and Bayesian approaches to build predictive models for improving clinical diagnosis of various types of cancer (binary and multi-class classification studies).  Technical expertise includes strong programming skills in different languages and ability to quickly learn new software. I have also more than 6.5 years of successful experience in developing and delivering statistical training material for statisticians and non-statistician in various topics. 
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Before joining UCL, I received my master's degree in 'Statistics & Mathematical Modeling', from Aristotle University of Thessaloniki, Greece. I completed my master thesis under the supervision of Prof. George Tsaklidis. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Prior to my master, I studied Mathematics at the Aristotle University of Thessaloniki. The final year I worked by Assistant Prof. Aleka Papadopoulou and Prof. George Tsaklidis. into two different projects. 
