@@ -32,7 +32,7 @@ layout: page
   
 
 #### Volunteering
-- Data Science Specialist, ASA Five College DataFest, Amherst, Massachusetts, USA, Two two-day data-science competitions (2016, 2017).
+- Data Science Specialist, ASA Five College DataFest, Amherst, Massachusetts, USA, Two two-day data-science competitions (2014, 2015).
 	- I was responsible for data-science tutoring and explaining Statistics and Machine Learning concepts to undergraduate students. 
 
   
@@ -55,7 +55,7 @@ layout: page
   * Minitab
 
 
-* Operating system:
+* Operating systems:
   * Windows
   * Linux
   * Mac OS
