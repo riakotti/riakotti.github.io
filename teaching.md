@@ -5,7 +5,6 @@ layout: page
 ---
 
 ## Teaching in Industry
-
 I successfully prepared and delivered the following courses to scientists and industrial placement students:
 
 - Series of Introduction to Statistics and Graphics, GSK, UK (2017 - present) 
@@ -13,7 +12,6 @@ I successfully prepared and delivered the following courses to scientists and in
 - Series of Statistica (graphical user interface software) trainings, GSK, UK (2017 - present) 
 
 ## Teaching in University and Training Center
-
 I successfully delivered the following courses to undergraduate, MSc., and Ph.D. students:
 
 - Course: Statistics for Environmental Scientists, Natural Environment Research Council Doctoral training partnership -NERC DTP- (Spring 2016) 
