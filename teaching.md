@@ -21,7 +21,7 @@ I successfully delivered the following courses to undergraduate, MSc., and Ph.D.
 - STAT2002 / 7101: Linear Models and the Analysis of Variance, taught by Dr. Ioannis Kosmidis, University College London (Autumn 2014)
 - MATH0503: Statistics, taught by by Associate Prof. Fotini Kolyva-Machera, Aristotle University of Thessaloniki (Spring 2012)
 
-##Selected Courses taken at University and Industry
+## Selected Courses taken at University and Industry
 
 * An introduction to research programming using Python (Spring 2016, currently).   I am currently aslo attending online Python courses (provided by DataCamp and Coursera; Spring 2019).
 * Introduction to high performance computing (HPC), HPC in R and HPC in SAS (Spring 2019)
