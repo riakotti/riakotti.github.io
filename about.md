@@ -2,14 +2,14 @@
 title: About 
 layout: page
 ---
-My name is Eleftheria (Ria) Kotti. I have more than 6.5 years of experience in applying statistical methods and machine learning techniques to problems in academia or industry.
 
-For most of the last two years as a Principal Statistician, I am providing high-quality statistical support to CMC team in GSK, where I successfully support scientists at different groups, aiming to improve decision-making.  So far I have received five awards for my high-quality, innovative and valuable contribution to team’s and company's success! 
+My name is Eleftheria (Ria) Kotti. I have more than 7 years of experience in applying statistical methods and machine learning techniques. 
 
-Before that, I completed the requirements for a PhD in Statistical Science and Machine Learning at UCL. I was a member of ﻿the Centre for Computational Statistics and Machine Learning (CSML). I performed variable selection via penalization, Machine Learning and Bayesian approaches to build predictive models for improving clinical diagnosis of various types of cancer (binary and multi-class classification studies).  Technical expertise includes strong programming skills in different languages and ability to quickly learn new software. 
+Currently, I am working as a Data Scientist at [Wayhome](https://www.wayhome.co.uk), where I analyse data relating to the real-estate market in the UK to generate insights for the business and its customers.
 
-I have also more than 6.5 years of successful experience in developing and delivering statistical training material for statisticians and non-statistician in various topics. 
+Before Wayhome, I worked for three years at GlaxoSmithKline as a Principal Statistician / Data Scientist. During my time at GSK, I received five awards for my high-quality, innovative and valuable contributions to the team’s and company's success.
 
+Before that, I completed the requirements for a PhD in Statistical Science and Machine Learning at UCL. I was a member of ﻿the Centre for Computational Statistics and Machine Learning (CSML). I performed variable selection via penalization, Machine Learning and Bayesian approaches to build predictive models for improving clinical diagnosis of various types of cancer (binary and multi-class classification studies). Technical expertise includes strong programming skills in different languages and ability to quickly learn new software. I have also more than 7 years of successful experience in developing and delivering statistical training material for statisticians and non-statistician in various topics. 
 
 Before joining UCL, I received my master's degree in 'Statistics & Mathematical Modelling', from Aristotle University of Thessaloniki, Greece. I completed my master thesis under the supervision of Prof. George Tsaklidis. 
 
