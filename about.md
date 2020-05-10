@@ -5,7 +5,7 @@ layout: page
 
 My name is Eleftheria (Ria) Kotti. I have more than 7 years of experience in applying statistical methods and machine learning techniques. 
 
-Currently, I am working as a Data Scientist at [Wayhome](https://www.wayhome.co.uk), where I analyse data relating to the real-estate market in the UK to generate insights for the business and its customers.
+Currently, I am working as a **Data Scientist at [Wayhome](https://www.wayhome.co.uk)**, where I analyse data relating to the real-estate market in the UK to generate insights for the business and its customers.
 
 Before Wayhome, I worked for three years at GlaxoSmithKline as a Principal Statistician / Data Scientist. During my time at GSK, I received five awards for my high-quality, innovative and valuable contributions to the team’s and company's success.
 
