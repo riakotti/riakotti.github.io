@@ -19,8 +19,10 @@ layout: page
 * BSc Department of Mathematics, Aristotle University of Thessaloniki, Greece 
   - **3 awards for outstanding performance (State Scholarships Foundation (IKY))**
 
-#### Work Experience 
-* 01/2017 - present, GSK, Principal Statistician, CMC (non-clinical), Biostatistics, R&D, Ware, Greater London, United Kingdom.
+#### Work Experience
+* 02/2020 - Present, Wayhome, Data Scientist, London, United Kingdom
+
+* 01/2017 - 01/2020, GSK, Principal Statistician / Data Scientist, CMC (non-clinical), Biostatistics, R&D, Ware, Greater London, United Kingdom.
 
   I provided high quality statistical support to scientists at different groups aiming to improve decision making at various steps during the design of new medicines (tablets or inhalers) for a couple of products, e.g., to treat HIV, Asthma, Anaemia associated with chronic kidney disease.
 
@@ -40,19 +42,21 @@ layout: page
 #### Technical Skills
 
 * Programming:
+  * Python (e.g., Pandas, NumPy, SciPy, Matplotlib, SciKit-Learn)
+  * SQL, Google BigQuery
   * SAS (including High-Performance Computing (HPC))
   * R and Shiny app (including HPC)
   * MATLAB (including HPC)
-  * Python (e.g., Pandas, NumPy, SciPy, Matplotlib, SciKit-Learn)
   * Mathematica
-  * SQL
     
 
 * User Interface softwares:
+  * Tableau
   * Statistica (Advanced analytics software)
   * Design-Expert (DX) (Design, analyse and optimise experiments)
   * SPSS
   * Minitab
+  
 
 
 * Operating systems:
