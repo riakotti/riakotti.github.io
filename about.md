@@ -5,7 +5,7 @@ layout: page
 
 My name is Eleftheria (Ria) Kotti. I have more than 7 years of experience in applying statistical methods and machine learning techniques.
 
-I am currently working as a Data Scientist for [Raising IT, an Access company](https://www.raisingit.com/google-grants-adwords-ppc). Raising IT operates in the non-profit / charity sector, aiming to increase their efficiency and help them raise more funds. 
+I am currently working as a Data Scientist for [Raising IT](https://www.raisingit.com/google-grants-adwords-ppc), an Access company. Raising IT operates in the non-profit / charity sector, aiming to increase their efficiency and help them raise more funds. 
 
 In the past, I have also worked at Wayhome and GlaxoSmithCline. At Wayhome, I analysed data relating to the real-estate market in the UK to generate insights for the business and its customers. At GlaxoSmithCline, I worked as Principal Statistician / Data Scientist.
 
